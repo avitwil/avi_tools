@@ -103,12 +103,12 @@ MIT License
 ## Author
 
 Avi Twil
-Email: [avitwil@gmail.com](mailto:avitwil@gmail.com)
 GitHub: [https://github.com/avitwil](https://github.com/avitwil)
 PyPI: [https://pypi.org/project/avi\_tools/](https://pypi.org/project/avi_tools/)
 
 ```
 
 ---
+
 
 
