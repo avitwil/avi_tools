@@ -1,4 +1,4 @@
-import dill
+import .dill
 import logging
 import os
 from typing import Any, Optional, Iterator, Tuple, Dict
@@ -293,3 +293,4 @@ class VariableDB:
                 continue
             self.data[key] = value
             logger.debug(f"(VariableDB.update) Set '{key}' = {type(value).__name__}")
+
