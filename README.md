@@ -20,7 +20,7 @@ pip install avi_tools
 
 ## Modules Overview
 
-* `avi_tools.async_funcs_manager`: Manage async functions with wrappers and async runners.
+* `avi_tools.async_funcs_manager`: Manage async functions with wrappers and async runners using dill.
 * `avi_tools.variabledb`: Lightweight file-based key-value store.
 * `avi_tools.twillkit`: Functional tools including Monoid, Infix, terminal colors, file helpers, and more.
 
@@ -109,6 +109,7 @@ PyPI: [https://pypi.org/project/avi\_tools/](https://pypi.org/project/avi_tools/
 ```
 
 ---
+
 
 
 
