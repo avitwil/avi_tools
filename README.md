@@ -15,7 +15,7 @@ This toolkit is designed to be lightweight, simple to use, and helpful for scrip
 ## Installation
 
 
-```zsh
+
 pip install avi_tools
 ````
 
@@ -110,6 +110,7 @@ PyPI: [https://pypi.org/project/avi\_tools/](https://pypi.org/project/avi_tools/
 ```
 
 ---
+
 
 
 
